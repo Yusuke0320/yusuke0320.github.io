@@ -84,8 +84,9 @@ header {
   z-index: 10;
 }
 
-.logo {
+.logo img{
   width:42px
+  float:left
 }
     
 .logo {
@@ -102,7 +103,7 @@ header {
   padding: 0 25px;
   color: white;
   display: block;
-  float: left;
+  float: right;
 }
 
 .header-right {
