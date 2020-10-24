@@ -83,15 +83,18 @@ header {
   top: 0;
   z-index: 10;
 }
+
+.header-left img{
+  width:20px;
+  height:24px;
+  float:left;
+  object-fit:cover;
+  object-position:left;
+}
     
 .logo {
   width: 124px;
   margin-top: 20px;
-}
-
-.logo img{
-  width:42px;
-  float:left;
 }
 
 .header-left {
