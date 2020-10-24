@@ -85,11 +85,23 @@ header {
 }
 
 .logo {
+  width:42px
+}
+    
+.logo {
   width: 124px;
   margin-top: 20px;
 }
 
 .header-left {
+  float: left;
+}
+
+.header-left a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
   float: left;
 }
 
