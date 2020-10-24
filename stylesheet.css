@@ -83,15 +83,15 @@ header {
   top: 0;
   z-index: 10;
 }
-
-.logo img{
-  width:42px
-  float:left
-}
     
 .logo {
   width: 124px;
   margin-top: 20px;
+}
+
+.logo img{
+  width:42px;
+  float:left;
 }
 
 .header-left {
@@ -100,7 +100,6 @@ header {
 
 .header-left a {
   line-height: 65px;
-  padding: 0 25px;
   color: white;
   display: block;
   float: right;
